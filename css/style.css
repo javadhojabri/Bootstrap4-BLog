@@ -41,6 +41,11 @@
 * {
     font-family: IRANSans;
 }
+
 .rtl {
     direction: rtl;
+}
+
+.h-400 {
+    height: 400px;
 }
